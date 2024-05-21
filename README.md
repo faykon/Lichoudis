@@ -1,2 +1,2 @@
 # Lichoudis
-. An immersive 2D platform video game in the style of the classic video game arcanoid.
+Conceptualization, level design, game and video game development and product testing of Lichoudis Game Project. An immersive 2D platform video game in the style of the classic video game arcanoid. The implementation was conducted via the Unity cross-platform game engine and development environment while the programming language of compatible choice was C#. Lichoudis, our main and sole hero being at the bottom of a 2D customly-designed screen stage, is trying to gather as many delicacies as possible falling from the sky to achieve high score while failing to do so concludes in game over.
